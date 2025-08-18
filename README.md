@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Welcome Banner" width="800"/>
+  <img src="Copilot_20250817_135723.png" alt="Welcome Banner" width="800"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sajjad Siadati</h1>
